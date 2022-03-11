@@ -1,4 +1,3 @@
-# cse212-final-project
 # Programming with Data Structures
 ## I. Welcome
 * Introduction

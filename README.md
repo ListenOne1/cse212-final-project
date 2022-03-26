@@ -7,10 +7,10 @@
 * Example
 * Problem to slove
 ## III. Linked List
-* Introduction
+* Introduction [here](2-linklist.md)
 * Example
 * Problem to slove
 ## IV. Tree
-* Introduction
+* Introduction [here](3-tree.md)
 * Example
 * Problem to slove

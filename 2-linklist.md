@@ -31,5 +31,24 @@ class LinkedList:
         self.head = None
         self.tail = None
 ```
+insert head
+```python
+def insert_head(self, value):
+        
+        # Create the new node
+        new_node = LinkedList.Node(value)  
+        
+        # If the list is empty, then point both head and tail
+        # to the new node.
+        if self.head is None:
+            self.head = new_node
+            self.tail = new_node
+        # If the list is not empty, then only self.head will be
+        # affected.
+        else:
+            new_node.next = self.head # Connect new node to the previous head
+            self.head.prev = new_node # Connect the previous head to the new node
+            self.head = new_node      # Update the head to point to the new node
+```
 ## Practice and challenge:
 ## Answer:

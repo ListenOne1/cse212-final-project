@@ -20,9 +20,10 @@ Empty()|Returns true if the length if the linked list is zero|if len(my_deque)==
 Creat a Class Node
 ```python
 class Node:
-    def __init__(self, data = None, next = None):
+    def __init__(self, data = None, next = None, prev = None):
         self.data = data
         self.next = next
+        self.prev = prev
 ```
 Creat a Class Node
 ```python

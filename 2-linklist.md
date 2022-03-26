@@ -24,5 +24,12 @@ class Node:
         self.data = data
         self.next = next
 ```
+Creat a Class Node
+```python
+class LinkedList:
+    def __init__(self):
+        self.head = None
+        self.tail = None
+```
 ## Practice and challenge:
 ## Answer:

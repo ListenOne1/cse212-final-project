@@ -1,6 +1,6 @@
 # Set
 ## Introduction:
-The set data structure is an example of one for which order is not important. The set allow no duplicates. The set is able to add, remove, and test for membership in O(1) time.
+The set data structure is an example of which order is not important. The set allow no duplicates. The set is able to add, remove, and test for membership in O(1) time.
 Function|Description|Python Code|Performance
 -|-|-|-
 Add|Add "value" to the set|my_set.add(value)|O(1)

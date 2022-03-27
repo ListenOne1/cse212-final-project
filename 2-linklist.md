@@ -19,9 +19,11 @@ Remove(i, value)|Remove "value" after node i|my_deque.deque(i, value)|O(n)
 Size|Returns the number of items in the linked list|length = len(my_deque)|O(1)
 Empty()|Returns true if the length if the linked list is zero|if len(my_deque)==0:|O(1)
 
+## Inserting into a Linked List
 ![](LL/LL1.png)
 ![](LL/LL2.png)
 ![](LL/LL3.png)
+## Removing from a Linked List
 ![](LL/LL4.png)
 ![](LL/LL5.png)
 ![](LL/LL6.png)

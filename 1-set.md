@@ -1,6 +1,6 @@
 # Set
 ## Introduction:
-The set data structure is an example of which order is not important. Sets are used to store multiple items in a single variable. The set is able to add, remove, and test for membership in O(1) time.
+The Set data structure is an example of which order is not important. Sets are used to store multiple items in a single variable. Set is able to add, remove, and test for membership in O(1) time. Since Sets are unordered, the order is not important. The output may always look different when you print it, but all of the outputs are considered as the same.
 Function|Description|Python Code|Performance
 -|-|-|-
 Add|Add "value" to the set|my_set.add(value)|O(1)

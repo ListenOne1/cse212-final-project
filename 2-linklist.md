@@ -21,6 +21,8 @@ Empty()|Returns true if the length if the linked list is zero|if len(my_deque)==
 
 !(picture)[LL/LL1.png]
 
+Link to [image](LL/LL1.png)
+
 ## Example for Linked List:
 Creat a Class Node
 ```python

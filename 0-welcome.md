@@ -1,3 +1,3 @@
 # Introduction
-## This is a tutorial for data structure using python
+## This is a tutorial lesson for data structure using python
 

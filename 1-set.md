@@ -19,7 +19,7 @@ Outputs:
 ```python
 {'c', 1, 2, 'b', 'a'}
 ```
-Example:
+Example for add and remove the Set
 ```python
 one_set = {1,2,3,4,5}
 one_set.remove(1)

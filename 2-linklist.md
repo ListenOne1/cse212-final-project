@@ -5,6 +5,9 @@ Linked list organized and store the data in the random way with in memory, so th
 ![imagine]()
 
 The first node in the linked list is **Head**, the node at the end of the linked list we called **Tail**
+
+Python does have a linked list available for use called the deque. To create an empty linked list, the following code is used: link_list = deque(). You will need to include the following import statement as well: import deque. The table below shows the common functions in the deque.
+
 Function|Description|Python Code|Performance
 -|-|-|-
 insert_head(value)|Adds "value" before the head|my_deque.appendleft(value)|O(1)

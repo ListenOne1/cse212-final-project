@@ -1,7 +1,7 @@
 # Programming with Data Structures-Python
 ## I. Welcome
-* Introduction [here](0-welcome.md)
-* Contact [here]()
+* [Introduction](0-welcome.md)
+* [Contact]()
 ## II. Set
 * [Introduction](1-set.md)
 * Example

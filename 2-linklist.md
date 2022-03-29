@@ -21,6 +21,7 @@ Empty()|Returns true if the length if the linked list is zero|if len(my_deque)==
 
 ## Inserting into a Linked List
 ![](LL/LL1.png)
+<img src="LL/LL1.png" alt="LL1" width="200"/>
 ![](LL/LL2.png)
 ![](LL/LL3.png)
 ## Removing from a Linked List

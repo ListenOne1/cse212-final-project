@@ -38,7 +38,7 @@ Output:
 ```
 According to the example, we can see the output does not contain any same values, and the set is unordered as well.
 ## Practice and challenge:
-Practice: This is your shopping list in the Set. You went to walmart, you bought eggs, ground beef and cucumber. The green cabbage and onion were sold out. You also notice that next time you need to buy rice and apple. What would your new shopping list looks like in the Set.
+Practice: This is your shopping list in the Set(egg, green cabbage, ground beef, onion and cucumber). You went to walmart, you bought eggs, ground beef and cucumber. The green cabbage and onion were sold out. You also notice that next time you need to buy rice and apple. What would your new shopping list looks like in the Set.
 ```python
 item = {"eggs","green cabbage","ground beef","onion","cucumber"}
 ###############

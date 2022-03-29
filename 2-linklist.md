@@ -23,14 +23,11 @@ Empty()|Returns true if the length if the linked list is zero|if len(my_deque)==
 <img src="LL/LL1.png" alt="LL1" width="700"/>
 <img src="LL/LL2.png" alt="LL2" width="700"/>
 <img src="LL/LL3.png" alt="LL3" width="700"/>
-![](LL/LL2.png)
-![](LL/LL3.png)
+
 ## Removing from a Linked List
 <img src="LL/LL4.png" alt="LL4" width="700"/>
 <img src="LL/LL5.png" alt="LL5" width="700"/>
 <img src="LL/LL6.png" alt="LL6" width="700"/>
-
-Link to [image](LL/LL1.png)
 
 ## Example for Linked List:
 Creat a Class Node

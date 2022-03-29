@@ -53,6 +53,7 @@ item = {"eggs","green cabbage","ground beef","onion","cucumber"}
 #######
 
 print(f"This is my new shopping list. {item}")
+# Answer :
 # This is my new shopping list. {'rice', 'apple', 'green cabbage', 'onion'}
 # The output might be different.
 ```

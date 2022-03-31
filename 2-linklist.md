@@ -1,6 +1,6 @@
 # Linked list
 ## Introduction:
-Linked lists organize and store the data in the random way with in memory, so the data is not next to each other. In order to organized the data, linked list use **node** and **pointer** to organized data. each element is a node. We use thre pointer to point to next value.
+Linked lists organize and store the data in a random way with in memory, so the data is not next to each other. In order to organize the data, linked lists use **node** and **pointer** to organize data. Each element is a node. We use the pointer to point to next value.
 
 ![imagine]()
 

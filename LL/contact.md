@@ -1,4 +1,4 @@
-This is the final project for CSE-212
+## This is the final project for CSE-212
 
 Shih Chen Lee
 

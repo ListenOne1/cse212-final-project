@@ -1,6 +1,6 @@
-### Contact
-
 For question or comments, please send them to me.
+
+### Contact
 
 Shih Chen Lee
 

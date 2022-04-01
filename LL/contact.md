@@ -1,5 +1,7 @@
 ### This is the final project for CSE-212
 
+For question or comments, please send them to
+
 Shih Chen Lee
 
 Email: lee19031@byui.edu

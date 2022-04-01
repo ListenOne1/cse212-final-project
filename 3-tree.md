@@ -2,7 +2,7 @@
 ## Introduction:
 Binary tree is like the linked list, the tree have two pointer.
 ## Example for Linked List:
-## Practice and challenge:
+The class below is how we set up the tree
 ```Python
 class BST:
     """
@@ -161,6 +161,8 @@ class BST:
         else:
             return max(self._get_height(node.left), self._get_height(node.right)) + 1
 ```
+## Practice and challenge:
+
 ## Answer:
 [here]()
 ***

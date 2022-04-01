@@ -1,4 +1,4 @@
-### This is the final project for CSE-212
+### Contact
 
 For question or comments, please send them to
 

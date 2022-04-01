@@ -1,6 +1,6 @@
 # Tree
 ## Introduction:
-Binary tree is like the linked list, the tree have two 
+Binary tree is like the linked list, the tree have two pointer.
 ## Example for Linked List:
 ## Practice and challenge:
 ```Python

@@ -2,7 +2,7 @@
 ## Introduction:
 Linked lists organize and store the data in a random way with in memory, so the data is not next to each other. In order to organize the data, linked lists use **node** and **pointer** to organize data. Each element is a node. We use the pointer to point to next value.
 
-![imagine]()
+//![imagine]()
 
 The first node in the linked list is **Head**, the node at the end of the linked list we called **Tail**
 

@@ -1,5 +1,6 @@
 # Tree
 ## Introduction:
+Binary tree is like the linked list, the tree have two 
 ## Example for Linked List:
 ## Practice and challenge:
 ```Python

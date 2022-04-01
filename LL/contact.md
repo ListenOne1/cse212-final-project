@@ -6,4 +6,4 @@ Shih Chen Lee
 
 Email: lee19031@byui.edu
 ***
-[back to title page](READ.md)
+[back to title page](README.md)

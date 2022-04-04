@@ -28,6 +28,6 @@ def multiple_loops(n):
 * O(3n)=O(n)I
 
 <img src="LL/bigONotation.png" alt="bigONotation" width="400"/>
-
+(Image from wikipedia)
 ***
 [return to page](README.md)

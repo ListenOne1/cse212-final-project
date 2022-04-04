@@ -183,33 +183,32 @@ class BST:
             return max(self._get_height(node.left), self._get_height(node.right)) + 1
 ```
 ## Practice and challenge:
-
+This is the code that we create the tree, predict the output before you compile it.(Hint:get_height function )
 ```python
 tree = BST()
-tree.insert(11)
-tree.insert(12)
-tree.insert(7)
-tree.insert(7)
-tree.insert(7)  
-tree.insert(2)
-tree.insert(2)
-tree.insert(1)
 tree.insert(6)
-tree.insert(5)
+tree.insert(7)
+tree.insert(8)
+tree.insert(2)
+tree.insert(7)  
+tree.insert(1)
+tree.insert(1)
+tree.insert(3)
+tree.insert(4)
+tree.insert(4)
 print("The nodes are:")
 for x in tree:
     print(x, end = " ") 
 # Try to find the nodes here
 print()
-print()
 print(f"The height is: {tree.get_height()}")
 # Try to find the height of the tree here
-tree.insert(8)
-print()
+tree.insert(12)
+print(f"Insert 12")
 print(f"The height is: {tree.get_height()}")
 # Try to find the height of the tree here
-tree.insert(3)
-print()
+tree.insert(5)
+print(f"Insert 5")
 print(f"The height is: {tree.get_height()}")
 # Try to find the height of the tree here
 ```

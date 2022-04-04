@@ -12,12 +12,13 @@ Binary tree is like the linked list, the tree have two pointer. Connect to diffe
 
 **Height**: Height of a node is what hierarchys it belongs to. Determine the height of a node is O(log n) because we will only trace how many hierachys it has.
 
+**Tarverse**: The process of visiting all nodes (and subsequently their values) in a tree.
+
 ## binary search tree
 
 A binary search tree (BST) is a binary tree that follows rules for data that is put into the tree. Data is placed into the BST by comparing the data with the value in the parent node. If the data being added is less than the parent node, then it is put in the left subtree. If the data being added is greater than the parent node, then it is put in the right subtree. If duplicates are allowed than the duplicate can be put either to the left or to the right of the root. By using this process, the data is stored in the tree sorted.
 <img src="LL/tree2.png" alt="tree2" width="700"/>
 
-**Tarverse**: The process of visiting all nodes (and subsequently their values) in a tree.
 ## Example for Linked List:
 The class below is how we set up the tree
 ```Python

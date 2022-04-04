@@ -29,7 +29,7 @@ def multiple_loops(n):
 
 2^n
 N!
-<img src="ll/bigONotation" alt="bigONotation" width="400"/>
+<img src="LL/bigONotation" alt="bigONotation" width="400"/>
 
 ***
 [return to page](README.md)

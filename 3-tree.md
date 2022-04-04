@@ -12,6 +12,8 @@ Binary tree is like the linked list, the tree have two pointer. Connect to diffe
 
 **Height**: Height of a node is what hierarchys it belongs to. Determine the height of a node is O(log n) because we will only trace how many hierachys it has.
 
+<img src="LL/tree2.png" alt="tree2" width="700"/>
+
 **Tarverse**: The process of visiting all nodes (and subsequently their values) in a tree.
 ## Example for Linked List:
 The class below is how we set up the tree

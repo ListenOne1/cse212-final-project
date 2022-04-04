@@ -184,6 +184,35 @@ class BST:
 ```
 ## Practice and challenge:
 
+```python
+tree = BST()
+tree.insert(11)
+tree.insert(12)
+tree.insert(7)
+tree.insert(7)
+tree.insert(7)  
+tree.insert(2)
+tree.insert(2)
+tree.insert(1)
+tree.insert(6)
+tree.insert(5)
+print("The nodes are:")
+for x in tree:
+    print(x, end = " ") 
+# Try to find the nodes here
+print()
+print()
+print(f"The height is: {tree.get_height()}")
+# Try to find the height of the tree here
+tree.insert(8)
+print()
+print(f"The height is: {tree.get_height()}")
+# Try to find the height of the tree here
+tree.insert(3)
+print()
+print(f"The height is: {tree.get_height()}")
+# Try to find the height of the tree here
+```
 ## Answer:
 [here]()
 ***

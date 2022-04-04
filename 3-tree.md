@@ -4,15 +4,15 @@ Binary tree is like the linked list, the tree have two pointer. Connect to diffe
 
 <img src="LL/tree1.png" alt="tree1" width="700"/>
 
-Parent/Child: A parent node can have no more than two child nodes. If we want to insert or remove a child node, the BigO will be O(log n) because it we do not need to all of the spots to perform.
+*Parent/Child*: A parent node can have no more than two child nodes. If we want to insert or remove a child node, the BigO will be O(log n) because it we do not need to all of the spots to perform.
 
-Root/leaf: A Root node is the top parent node of the whole tree. If a node does not have any child node, that node will be called as LEAF.
+*Root/leaf*: A Root node is the top parent node of the whole tree. If a node does not have any child node, that node will be called as LEAF.
 
-Subtree: In computer science, a tree can be treated as a node. If a tree becomes a child node of a node. That tree is the Subtree.
+*Subtree*: In computer science, a tree can be treated as a node. If a tree becomes a child node of a node. That tree is the Subtree.
 
-Height: Height of a node is what hierarchys it belongs to. Determine the height of a node is O(log n) because we will only trace how many hierachys it has.
+*Height*: Height of a node is what hierarchys it belongs to. Determine the height of a node is O(log n) because we will only trace how many hierachys it has.
 
-Tarverse: The process of visiting all nodes (and subsequently their values) in a tree.
+*Tarverse*: The process of visiting all nodes (and subsequently their values) in a tree.
 ## Example for Linked List:
 The class below is how we set up the tree
 ```Python

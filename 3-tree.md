@@ -25,6 +25,7 @@ If you want to insert 20.
 Find the height of the tree
 
 <img src="LL/tree3.png" alt="tree3" width="600"/>
+
 Common BST Operation|Description|Performance
 -|-|-
 insert(value)|Insert a value into the tree.|O(log n)

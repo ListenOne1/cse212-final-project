@@ -1,1 +1,1 @@
-<img src="treeAnswer.png" alt="treeAnswer" width="700"/>
+<img src="treeAnswer.png" alt="treeAnswer" width="300"/>

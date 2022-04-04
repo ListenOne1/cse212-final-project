@@ -25,6 +25,16 @@ If you want to insert 20.
 Find the height of the tree
 
 <img src="LL/tree3.png" alt="tree3" width="600"/>
+Common BST Operation|Description|Performance
+-|-|-
+insert(value)|Insert a value into the tree.|O(log n)
+remove(value)|Remove a value from the tree.|O(log n)
+contains(value)|Determine if a value is in the tree.|O(log n)
+traverse_forward|Visit all objects from smallest to largest.|O(n)
+traverse_reverse|Visit all odjects from largest to smallest.|O(n)
+height(node)|Determine the height of a node. If the height of the tree is needed, the root node is provided.|O(n)
+size()|Return the size of the BST.|O(1)
+empty()|Returns true if the root node is empty. This can also be done by checking the size for 0.|O(1)
 
 ## Example for Linked List:
 The class below is how we set up the tree

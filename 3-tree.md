@@ -20,7 +20,8 @@ A binary search tree (BST) is a binary tree that follows rules for data that is 
 
 If you want to insert 20.
 
-<img src="LL/tree2.png" alt="tree2" width="700"/>
+<img src="LL/tree2.png" alt="tree2" width="600"/>
+<img src="LL/tree3.png" alt="tree3" width="600"/>
 
 ## Example for Linked List:
 The class below is how we set up the tree

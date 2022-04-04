@@ -4,7 +4,8 @@ This is a tutorial lesson for data structure using python
 The big O notation is the tool we can evalute the efficiency for the function.
 * O(n) take n times for the worse
 * O(2n) or (n+n) 
-  ```
+
+```
 def multiple_loops(n): 
 	for i in range(n): 
 		print(i)

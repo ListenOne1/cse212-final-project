@@ -2,7 +2,7 @@
 ## Introduction:
 Binary tree is like the linked list, the tree have two pointer. Connect to different node. There are many different types of tree for example, binary trees, binary search trees, and balanced binary search trees. 
 
-!(image)[]
+<img src="LL/tree1.png" alt="tree1" width="700"/>
 
 Parent/Child: A parent node can have no more than two child nodes. If we want to insert or remove a child node, the BigO will be O(log n) because it we do not need to all of the spots to perform.
 

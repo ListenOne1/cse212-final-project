@@ -27,8 +27,6 @@ def multiple_loops(n):
 ```
 * O(3n)=O(n)I
 
-2^n
-N!
 <img src="LL/bigONotation.png" alt="bigONotation" width="400"/>
 
 ***

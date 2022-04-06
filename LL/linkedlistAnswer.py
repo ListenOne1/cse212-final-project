@@ -1,18 +1,9 @@
-item = {"eggs","green cabbage","ground beef","onion","cucumber"}
-###############
-# Start there #
-###############
-
-item.remove("eggs")
-item.remove("ground beef")
-item.remove("cucumber")
-item.add("rice")
-item.add("apple")
-
-#######
-# End #
-#######
-
-print(f"This is my new shopping list. {item}")
-# This is my new shopping list. {'rice', 'apple', 'green cabbage', 'onion'}
-# The output might be different.
+def insert_tail(self, value):
+        new_node = LinkedList.Node(value)
+        if self.tail is None:
+            self.head = new_node
+            self.tail = new_node
+        else:
+            new_node.prev = self.tail
+            self.tail.next = new_node
+            self.tail = new_node

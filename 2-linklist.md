@@ -69,6 +69,7 @@ def insert_tail(self, value):
         
 ```
 ## Answer:
-[here]()
+[here](ll/linkedlistAnswer.py
+)
 ***
 [back to title page](https://github.com/ListenOne1/cse212-final-project/blob/main/README.md#programming-with-data-structures-python)

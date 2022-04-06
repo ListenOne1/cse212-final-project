@@ -26,6 +26,7 @@ def multiple_loops(n):
 			print(i**2)
 ```
 * O(3n)=O(n)I
+* log(n)
 
 <img src="LL/bigONotation.png" alt="bigONotation" width="400"/>
 Image from wikipedia

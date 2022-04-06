@@ -63,6 +63,11 @@ def insert_head(self, value):
         self.head = new_node      # Update the head to point to the new node
 ```
 ## Practice and challenge:
+Practice: try to make a function for insert tail
+```python
+def insert_tail(self, value):
+        
+```
 ## Answer:
 [here]()
 ***
